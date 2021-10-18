@@ -51,44 +51,6 @@ namespace ww
 
             Console.ReadKey();
 
-
-
-
-
-
-
-
-
-
-            //List<int> yenıLıst = new List<int>();
-            //List<string> strıngLıst = new List<string>();
-
-            //  void Yazdır()
-            //{
-            //    yenıLıst.Add(1);
-            //    yenıLıst.Add(2);
-            //    yenıLıst.Add(8);
-
-            //    strıngLıst.Add("ali");
-
-            //    Console.WriteLine(yenıLıst);
-            //    Console.WriteLine(strıngLıst);
-
-            //    //for (int i = 0; i < 10; i++)
-            //    //{
-            //    //    yenıLıst.Add(i);
-            //    //}
-            //    //Console.WriteLine(yenıLıst);
-            //}
-            //Yazdır();
-            //Console.ReadLine();
-
-
         }
-
-
-
-
-
     }
 }
